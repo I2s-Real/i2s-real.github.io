@@ -1,1 +1,11 @@
-
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.aims.qrscan",
+      "sha256_cert_fingerprints":
+        ["36:CC:8A:97:67:C8:A3:FB:D6:90:73:75:8C:C6:2E:DD:08:B8:80:FA:0E:E2:9B:40:79:2F:1E:4C:F7:43:EA:FA"]
+    }
+  }
+]
